@@ -1,0 +1,16 @@
+[
+  {
+    "repository"  : "device_google_gs101",
+    "target_path" : "device/google/gs101"
+  },
+  {
+    "remote"      : "evo-gitlab",
+    "repository"  : "vendor_google_oriole",
+    "target_path" : "vendor/google/oriole"
+  },
+  {
+    "remote"      : "evo-gitlab",
+    "repository"  : "vendor_google_raven",
+    "target_path" : "vendor/google/raven" 
+  }
+]

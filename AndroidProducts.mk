@@ -34,8 +34,8 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_whitefin_hwasan.mk \
     $(LOCAL_DIR)/aosp_whitefin_64.mk \
     $(LOCAL_DIR)/factory_whitefin.mk \
-    $(LOCAL_DIR)/lineage_oriole.mk \
-    $(LOCAL_DIR)/lineage_raven.mk
+    $(LOCAL_DIR)/evolution_oriole.mk \
+    $(LOCAL_DIR)/evolution_raven.mk
 
 COMMON_LUNCH_CHOICES := \
     aosp_slider-userdebug \

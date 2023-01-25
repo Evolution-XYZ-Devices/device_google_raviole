@@ -30,4 +30,4 @@ include device/google/gs101/wifi/BoardConfig-wifi.mk
 -include vendor/google_devices/gs101/prebuilts/BoardConfigVendor.mk
 -include vendor/google_devices/raven/proprietary/BoardConfigVendor.mk
 
-include device/google/raviole/raven/BoardConfigLineage.mk
+include device/google/raviole/raven/BoardConfigEvolution.mk

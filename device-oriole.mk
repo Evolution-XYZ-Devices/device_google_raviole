@@ -272,7 +272,3 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
 # Bluetooth OPUS codec
 PRODUCT_PRODUCT_PROPERTIES += \
     persist.bluetooth.opus.enabled=true
-
-# HBM
-PRODUCT_PACKAGES += \
-    HbmSVManagerOverlay

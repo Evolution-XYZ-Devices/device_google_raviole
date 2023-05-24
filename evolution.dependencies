@@ -12,5 +12,9 @@
     "remote"      : "evo-gitlab",
     "repository"  : "vendor_google_raven",
     "target_path" : "vendor/google/raven" 
+  },
+  {
+    "repository"  : "packages_apps_PixelParts",
+    "target_path" : "packages/apps/PixelParts"
   }
 ]
